@@ -426,7 +426,7 @@ FodyWeavers.xsd
 
 # VS Code files for those working on multiple tools
 .vscode/*
-!.vscode/settings.json
+.vscode/settings.json
 !.vscode/tasks.json
 !.vscode/launch.json
 !.vscode/extensions.json
@@ -471,3 +471,5 @@ install_manifest.txt
 compile_commands.json
 CTestTestfile.cmake
 _deps
+
+*.json
